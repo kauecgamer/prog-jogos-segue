@@ -1,2 +1,2 @@
 # prog-jogos-segue
-## testes
+## Projeto Programação de Jogos Modulo 1
